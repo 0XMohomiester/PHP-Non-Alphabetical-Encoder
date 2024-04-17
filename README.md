@@ -1,0 +1,1 @@
+# PHP-Non-Alphabetical-Encoder
