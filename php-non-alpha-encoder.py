@@ -3,7 +3,7 @@ import os
 import sys
 
 def Usage():
-    if len(sys.argv) != 2 or len(sys.argv) < 2:
+    if len(sys.argv) != 2:
         print("[+] Usage: python3 php-non-alpha-encoder.py <alpha_string_to_encode>")
         sys.exit()
 
