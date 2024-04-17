@@ -5,7 +5,6 @@ Reproduce your Alphabetical string using XOR operation of Two Non-alphabetical C
 git clone https://github.com/0XMohomiester/PHP-Non-Alphabetical-Encoder.git
 cd PHP-Non-Alphabetical-Encoder
 python3 php-non-alpha-encoder.py <alpha_string_to_encode>
-
 ```
 
 # Demo 
