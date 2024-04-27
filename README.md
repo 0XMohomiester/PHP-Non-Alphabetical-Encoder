@@ -7,7 +7,7 @@ cd PHP-Non-Alphabetical-Encoder
 python3 php-non-alpha-encoder.py <alpha_string_to_encode>
 ```
 
-# Demo 
+# Example 
 ```
 python3 php-non-alpha-encoder.py system
 ("("^"[").("$"^"]").("("^"[").(")"^"]").("%"^"@").("-"^"@")
